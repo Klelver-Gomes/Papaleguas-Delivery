@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "893608962126",
+    "firebase_url": "https://papaleguasdelivery-bc09c.firebaseio.com",
+    "project_id": "papaleguasdelivery-bc09c",
+    "storage_bucket": "papaleguasdelivery-bc09c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893608962126:android:3b5427f52a7bca3511fb1f",
+        "android_client_info": {
+          "package_name": "com.hugo.flutter.papa_leguas_delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893608962126-fbk9qql539na0bgsphdugp0jcoc09i4c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hugo.flutter.papa_leguas_delivery",
+            "certificate_hash": "e6763f9389b4a4f7dc6e557aeb20fe978a448547"
+          }
+        },
+        {
+          "client_id": "893608962126-4e8o3tvbktbfph5i7su69bia4ri964bv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAXjF4vtieVZbI6F4pivTrRIVFJZ3rzRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893608962126-4e8o3tvbktbfph5i7su69bia4ri964bv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
